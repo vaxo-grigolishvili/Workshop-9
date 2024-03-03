@@ -1,0 +1,12 @@
+@font-face {
+    font-family: robot;
+    src: url(../fonts/Roboto-Bold.ttf)
+}
+@font-face {
+    font-family: yellowtail;
+    src: url(../fonts/Yellowtail-Regular.ttf);
+}
+@font-face {
+    font-family: opensans;
+    src: url(../fonts/OpenSans-VariableFont_wdth\,wght.ttf);
+}
